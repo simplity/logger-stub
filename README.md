@@ -1,2 +1,2 @@
 # logger-stub
-stub that leaves the choice of actual logger to the actual code that uses the library 
+stub to be used by a library-package so that the choice of actual logger is left to the code that uses the library 
